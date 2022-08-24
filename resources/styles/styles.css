@@ -1,0 +1,35 @@
+body {
+  background-color: #061e5a;
+}
+
+h1 {
+  color: #5fcdcd;
+  text-align: center;
+}
+
+h2 {
+  color: #0a9797;
+}
+
+div {
+  text-align: center;
+}
+
+.section {
+  color: #206e6e;
+}
+
+#programmingLanguages {
+  padding-left: 20%;
+  float: left;
+}
+
+#achievements {
+  float: right;
+  padding-right: 20%;
+}
+
+#games {
+  float: right;
+  padding-right: 20%;
+}
